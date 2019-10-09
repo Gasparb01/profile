@@ -8,8 +8,8 @@ body {
   background-size: cover;
 }
 
-
 h1 {
+  padding-top: 25px;
   color:#383D49;
 }
 
@@ -114,6 +114,7 @@ li{
       width: 300px;
     }
 }
+
 
 .full-opacity {
   color: black;
